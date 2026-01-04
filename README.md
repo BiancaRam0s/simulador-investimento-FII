@@ -69,3 +69,4 @@ Este simulador foi desenvolvido como parte do desafio da **DIO (Digital Innovati
 Projeto desenvolvido para o desafio da DIO.<br>
 Sinta-se à vontade para usar, modificar e contribuir!
 
+
