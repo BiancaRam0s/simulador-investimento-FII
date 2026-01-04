@@ -54,7 +54,10 @@ Este simulador foi desenvolvido como parte do desafio da **DIO (Digital Innovati
 
 ## 🎥 Demonstração em Vídeo
 
-Vídeo de demonstração do simulador (em breve).
+[▶️ Clique aqui para assistir ao vídeo](https://youtube.com/shorts/fP4JxK9NYdk?feature=share)
+
+
+
 
 
 ---
